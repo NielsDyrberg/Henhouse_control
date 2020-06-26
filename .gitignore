@@ -1,4 +1,5 @@
 *.atsln
-*.xlm
+*.xml
 *.cppproj
 /Receiver/Receiver/Debug/*
+*.vs
