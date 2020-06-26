@@ -1,0 +1,4 @@
+*.atsln
+*.xlm
+*.cppproj
+/Receiver/Receiver/Debug/*
